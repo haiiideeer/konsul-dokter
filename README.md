@@ -94,7 +94,8 @@ Proyek ini dikerjakan oleh 3 kontributor dengan minimal 2 commit berbeda:
 ### 👥 Daftar Kontributor:
 - [@Deboyy12](https://github.com/Deboyy12) 
 - [@haiiideeer](https://github.com/haiiideeer) 
-- [@user3](https://github.com/user3) 
+- [@alincindra](https://github.com/alincindra)
+- [@melda10](https://github.com/melda10) 
 
 ### ✅ Commit:
 
